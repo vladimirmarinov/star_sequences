@@ -3,3 +3,4 @@
 *.bmp
 *.png
 *.db
+/target
