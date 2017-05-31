@@ -1,4 +1,5 @@
-.idea
-iml
-bmp
-png
+*.idea
+*.iml
+*.bmp
+*.png
+*.db
